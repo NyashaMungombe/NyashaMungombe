@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NyashaMungombe
 - 👀 About me : I’m currently a computer science student
-- 🌱 Hobbies : I play indoor football every week and play video games online with friends
-- 💞️ Recent projects : I’m looking to collaborate on github inorder to expand my knowledge
+- 🌱 Hobbies : I play indoor football every week and play video games online with friends and iam an aspiring entrepreneur
+- 💞️ Recent projects completed : I’m looking to collaborate on github inorder to expand my knowledge
 - 📫 Skillset : Loading
 
 <!---
